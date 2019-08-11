@@ -2,12 +2,14 @@
 ---
 
 git clone https://github.com/lc321/SSR.git
+
 ssr/ss-fly.sh -ssr
 
 bbr加速
 ---
 
 ssr/ss-fly.sh -bbr
+
 reboot
 
 ssr相关命令
