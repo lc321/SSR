@@ -4,13 +4,13 @@
 git clone https://github.com/lc321/SSR.git
 ssr/ss-fly.sh -ssr
 
-一bbr加速
+bbr加速
 ---
 
 ssr/ss-fly.sh -bbr
 reboot
 
-一ssr相关命令
+ssr相关命令
 ---
 
 /etc/init.d/shadowsocks start
